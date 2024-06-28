@@ -1,3 +1,3 @@
 # calculator-app
 
-by juli 
+Author - juli kumari
